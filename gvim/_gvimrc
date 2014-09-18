@@ -1,0 +1,6 @@
+set background=dark
+colorscheme hybrid
+"set guifont=Osaka|“™•:h12
+set guifont=Migu_1M:h10
+" ‹N“®‚ÉÅ‘å‰»‚·‚éB
+autocmd GUIEnter * simalt ~x
